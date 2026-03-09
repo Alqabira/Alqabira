@@ -6,7 +6,7 @@
 ## 👨‍💻 About Me
 - 🔭 I’m currently working on Data Science Projects  
 - 🌱 Learning Machine Learning & Deep Learning  
-- 📊 Passionate about turning data into insights  
+- 📊 Passionate about turning data into insights    
 - 💬 Ask me about Python, SQL, ML  
 
 ---
