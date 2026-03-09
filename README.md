@@ -9,7 +9,7 @@
 - 📊 Passionate about turning data into insights    
 - 💬 Ask me about Python, SQL, ML  
 
----
+---  
 
 ## 🚀 Skills & Tools
 
